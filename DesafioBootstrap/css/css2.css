@@ -1,0 +1,6 @@
+:root{
+    --dark-blue-400: rgb(0,79,156);
+}
+header{
+    background-color: var(--dark-blue-400);
+}
